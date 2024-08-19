@@ -17,7 +17,7 @@ struct ContentView: View {
         }
         .padding() // View Modifier, function that will take the view and returns a new view
         
-        .foregroundColor(.orange)
+        .foregroundColor(.blue)
     }
 }
 
